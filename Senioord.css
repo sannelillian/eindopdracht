@@ -1,0 +1,144 @@
+body {
+	font-family: 'Droid Sans', sans-serif;
+	background-image: url('zonmotief-02.png');
+	color: rgb(60,60,59);
+}
+
+h1 {
+	font-size: 16px;
+	line-height: 25px;
+	font-family: 'Open Sans', sans-serif;
+	text-align: right;
+	margin: -25px auto auto auto;
+}
+
+
+h2 {
+	font-size: 20px;
+	line-height: 25px;
+	padding-right: 30px;
+	padding-left: 20px;
+	padding-top: 20px;
+	font-family: 'Droid Sans', sans-serif;
+}
+
+p {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 15px;
+	padding-right: 30px;
+	padding-left: 20px;
+	padding-top: -20px;
+	line-height: 20px;	
+}
+
+
+.kader {
+	width: 1300px;
+	margin: 50px 0px auto 120px;
+}
+
+nav {
+	transform: rotate(270deg);
+	position: absolute;
+	position: fixed;
+	margin: 125px auto auto -270px;
+	background-color: rgba(36, 183, 197, 1);
+	padding: 30px;
+	word-spacing: 30px;
+	color: rgb(60,60,59);
+}
+
+
+
+a{
+	transition-property: color;
+	transition-duration: 0.3s;
+
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	transition-property: color;
+	transition-duration: 0.3s;
+
+	color: #3a3b3c;
+	font-size: 
+}
+
+a:active {
+	color: #364CFF;
+}
+
+.kader1a {
+	width: 700px;
+	height: 500px;
+	margin: 50px 0px 0px 100px;
+
+}
+
+.kader1b {
+	width: 700px;
+	height: 500px;
+	margin: -500px 0px 0px 800px;
+	background-color: rgba(255, 255, 255, 0.6);
+	
+}
+
+.paaltje {
+    float: right;
+    margin-top: 5px;
+}
+
+.onzichtbaar {
+	display: none;
+}
+
+.contact {
+	background-color: rgba(36, 183, 197, 0.9);
+	text-align: left;
+	padding: 1%;
+	position: fixed;
+	top: 66.5%;
+	left: 4%;
+
+}
+
+.kaart {
+	background-color: rgba(36, 183, 197, 0.9);
+	text-align: left;
+	padding: 1%;
+	position: fixed;
+	top: 56.5%;
+	left: 4%;
+
+}
+
+.binnen {
+	background-color: rgba(36, 183, 197, 0.9);
+	text-align: left;
+	padding: 1%;
+	position: fixed;
+	top: 19.5%;
+	left: 4%;
+}
+
+.buiten {
+	background-color: rgba(36, 183, 197, 0.9);
+	text-align: left;
+	padding: 1%;
+	position: fixed;
+	top: 41%;
+	left: 4%;
+
+}
+
+.index{
+	background-color: rgba(36, 183, 197, 0.9);
+	text-align: left;
+	padding: 1%;
+	position: fixed;
+	top: 3.3%;
+	left: 4%;
+}
+

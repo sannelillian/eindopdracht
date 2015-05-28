@@ -1,0 +1,236 @@
+body {
+	font-family: 'Droid Sans', sans-serif;
+	background-image: url('zonmotief-02.png');
+	color: rgb(60,60,59);
+	
+}
+
+h1 {
+	font-size: 16px;
+	line-height: 25px;
+	font-family: 'Open Sans', sans-serif;
+	text-align: right;
+	margin: -25px auto auto auto;
+
+}
+
+
+
+h2 {
+	font-size: 20px;
+	line-height: 25px;
+	padding-right: 30px;
+	padding-left: 20px;
+	padding-top: 20px;
+	font-family: 'Droid Sans', sans-serif;
+}
+
+p {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 15px;
+	padding-right: 30px;
+	padding-left: 20px;
+	padding-top: -20px;
+	line-height: 20px;	
+}
+
+
+
+.kader {
+	width: 1300px;
+	margin: 50px 0px auto 120px;
+}
+
+nav {
+	transform: rotate(270deg);
+	position: absolute;
+	position: fixed;
+	margin: 125px auto auto -270px;
+	background-color: rgba(36, 183, 197, 1);
+	padding: 30px;
+	word-spacing: 30px;
+
+}
+
+.paaltje {
+    float: right;
+    margin-top: 5px;
+}
+
+a{
+	transition-property: color;
+	transition-duration: 0.3s;
+
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	transition-property: color;
+	transition-duration: 0.3s;
+
+	color: #3a3b3c;
+	font-size: 
+}
+
+a:active {
+	color: #364CFF;
+}
+
+.kader1a {
+	width: 700px;
+	height: 500px;
+	margin: 75px 0px 200px 100px;
+
+}
+
+.kader1b {
+	width: 700px;
+	height: 500px;
+	background-color: rgba(255, 255, 255, 0.6);	
+	margin: -700px 0px 200px 800px;
+	
+}
+
+.kader2a {
+	width: 700px;
+	height: 500px;
+	margin: 100px 0px 200px 100px;
+	background-color: rgba(255, 255, 255, 0.6);
+	
+}
+
+.kader2b {
+	width: 700px;
+	height: 500px;
+	margin: -700px 0px 200px 800px;
+}
+
+.kader3a {
+	width: 700px;
+	height: 500px;
+	margin: 100px 0px 200px 100px;
+	
+}
+
+.kader3b {
+	width: 700px;
+	height: 500px;
+	margin: -700px 0px 200px 800px;
+	background-color: rgba(255, 255, 255, 0.6);
+}
+
+.kader4a {
+	width: 700px;
+	height: 500px;
+	margin: 100px 0px 200px 100px;
+	background-color: rgba(255, 255, 255, 0.6);
+	
+}
+
+.kader4b {
+	width: 700px;
+	height: 500px;
+	margin: -700px 0px 200px 800px;
+}
+
+
+.kader5a {
+	width: 700px;
+	height: 500px;
+	margin: 100px 0px 200px 100px;
+		
+}
+
+.kader5b {
+	width: 700px;
+	height: 500px;
+	margin: -700px 0px 200px 800px;
+	background-color: rgba(255, 255, 255, 0.6);
+}
+
+
+.kader6a {
+	width: 700px;
+	height: 500px;
+	margin: 100px 0px 200px 100px;
+	background-color: rgba(255, 255, 255, 0.6);
+}
+
+.kader6b {
+	width: 700px;
+	height: 500px;
+	margin: -700px 0px 200px 800px;
+}
+
+.kader7a {
+	width: 700px;
+	height: 500px;
+	margin: 100px 0px 200px 100px;
+}
+
+.kader7b {
+	width: 700px;
+	height: 500px;
+	margin: -700px 0px 200px 800px;
+	background-color: rgba(255, 255, 255, 0.6);
+}
+
+.banner {
+   	width: 1400px;
+	height: 500px;
+    margin: 100px 0px 200px 100px;
+}
+
+
+.onzichtbaar {
+	display: none;
+}
+
+.contact {
+	background-color: rgba(36, 183, 197, 0.9);
+	text-align: left;
+	padding: 1%;
+	position: fixed;
+	top: 66.5%;
+	left: 4%;
+
+}
+
+.kaart {
+	background-color: rgba(36, 183, 197, 0.9);
+	text-align: left;
+	padding: 1%;
+	position: fixed;
+	top: 56.5%;
+	left: 4%;
+
+}
+
+.binnen {
+	background-color: rgba(36, 183, 197, 0.9);
+	text-align: left;
+	padding: 1%;
+	position: fixed;
+	top: 19.5%;
+	left: 4%;
+}
+
+.buiten {
+	background-color: rgba(36, 183, 197, 0.9);
+	text-align: left;
+	padding: 1%;
+	position: fixed;
+	top: 41%;
+	left: 4%;
+
+}
+
+.index{
+	background-color: rgba(36, 183, 197, 0.9);
+	text-align: left;
+	padding: 1%;
+	position: fixed;
+	top: 3.3%;
+	left: 4%;
+}
